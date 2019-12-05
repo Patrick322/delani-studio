@@ -1,4 +1,7 @@
 .intro{
     text-align: center;
-    
+    background-image: url('assets/backgrounds/h_img.jpg');
+    padding:20px;
+    color:white;
+    height: 100%;
 }
