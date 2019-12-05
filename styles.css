@@ -7,7 +7,10 @@
     background-image: url('assets/backgrounds/h_img.jpg');
     background-repeat: no-repeat;
     color: white;
-    padding: 10%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
 }
 #overlay{
     left: 0;
@@ -17,7 +20,7 @@
     background: rgba(0,0,0,0.3);
     background-size: cover;
     background-repeat:no-repeat;
-    padding: 10%:
+    padding: 20%;
 }
 #top_logo{
     margin-bottom: 4%;
@@ -29,6 +32,7 @@
 
 p{
     margin-top: 3%;
+    font-weight: bold;
 }
 .about{
     text-align: center;
