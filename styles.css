@@ -10,14 +10,14 @@
     left: 0;
     right: 0;
     top: 0;
-    bottom: 0;
+    /* bottom: 0; */
 }
 #overlay{
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
-    background: rgba(0,0,0,0.3);
+    background: rgba(0,0,0,0.1);
     background-size: cover;
     background-repeat:no-repeat;
     padding: 20%;
@@ -37,4 +37,9 @@ p{
 .about{
     text-align: center;
     float:right;
+    bottom: 0%;
+    top: 2%;
+}
+.services{
+    background-image: url('assets/backgrounds/s_image.jpg');
 }
