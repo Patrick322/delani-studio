@@ -1,7 +1,32 @@
+.container{
+    left: 0;
+    right: 0;
+    width: 100%;
+}
 .intro{
-    text-align: center;
     background-image: url('assets/backgrounds/h_img.jpg');
-    padding:20px;
-    color:white;
-    height: 100%;
+    background-repeat: no-repeat;
+    color: white;
+    padding: 10%;
+}
+#overlay{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.3);
+    background-size: cover;
+    background-repeat:no-repeat;
+    padding: 10%:
+}
+#top_logo{
+    margin-bottom: 4%;
+}
+
+#bottom_logo{
+    margin-top: 14%;
+}
+
+p{
+    margin-top: 3%;
 }
