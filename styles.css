@@ -25,16 +25,27 @@
     padding-left: 120px
 }
 
-#bottom_logo {}
 
+.what{
+    display: flex;
+    justify-content: space-around;
+}
+
+.what p{
+    display: none;
+}
 /*p {
     margin-top: 3%;
     font-weight: bold;
 }*/
 
+#what_head{
+    text-align: center;
+}
+
 .about {
     text-align: center;
-    padding: 2%;
+    padding: 4%;
 }
 
 .about h1{
