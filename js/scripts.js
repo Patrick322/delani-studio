@@ -19,4 +19,14 @@ $(document).ready( function() {
         $('#devLogo').show()
     });
 
+    $("#productLogo").click(function(){
+        $(this).hide();
+        $('.pro').show();
+    });
+
+    $('.pro').click(function(){
+        $(this).hide();
+        $('#productLogo').show();
+    });
+
 });
