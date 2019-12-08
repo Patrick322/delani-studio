@@ -8,4 +8,15 @@ $(document).ready( function() {
         $(this).hide();
         $('#designlogo').show();
     });
+
+    $("#devLogo").click(function(){
+        $(this).hide();
+        $(".dev").show()
+    });
+
+    $('.dev').click(function(){
+        $(this).hide();
+        $('#devLogo').show()
+    });
+
 });
