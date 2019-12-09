@@ -121,3 +121,27 @@ body{
     background: rgba(0, 0, 0, 0.4);
     padding: 3%
 }
+.card-img-h h4{
+    color: white;
+    margin: 2%;
+    border: 2px solid white;
+    height: 80%;
+    text-align: left;
+}
+.card-img-i{
+    display: none;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 3%
+}
+.card-img-j h4{
+    color: white;
+    margin: 2%;
+    border: 2px solid white;
+    height: 80%;
+    text-align: left;
+}
+.card-img-k{
+    display: none;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 3%
+}

@@ -44,7 +44,18 @@ $(document).ready( function() {
 
     $('.img-f').hover(function(){
         $('.card-img-g').toggle();
-    })
+    });
+
+
+$('.img-h').hover(function(){
+    $('.card-img-i').toggle();
 });
-z
+
+$('.img-j').hover(function(){
+    $('.card-img-k').toggle();
+})
+
+$('.img')
+});
+
 
