@@ -175,6 +175,7 @@ body{
  .portfolio{
     display: flex;
     flex-wrap: wrap;
+    font-family: 'Satisfy', cursive;
 }
 
 .img-fluid{
