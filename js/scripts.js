@@ -62,6 +62,6 @@ $(document).ready(function () {
     $('.eighth').hover(function () {
         $('#8').toggle();
     });
-
+    
 
 });
