@@ -15,7 +15,7 @@ git clone https://github.com/Patrick322/delani-studio.github.io.git
 
 cd Delani-Studio
 cd IP3
-code . or atom . depending on the text editor of your choise.
+code . or atom . depending on the text editor of your choice.
 
 
 ## Known Bugs
