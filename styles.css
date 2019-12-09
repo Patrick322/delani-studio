@@ -1,8 +1,8 @@
-.container {
+/* .container {
     left: 0;
     right: 0;
     width: 100%;
-}
+} */
 
 .intro {
 
@@ -66,9 +66,9 @@
 body{
     font-size: 20px;
 }
-.contact{
+/* .contact{
     background-image: url('assets/backgrounds/h_img.jpg');
-}
+} */
 .weed{
     display:none;
 }
@@ -85,7 +85,7 @@ body{
     height: 80%;
     text-align: left;
 }
-.card-img-c h4{
+/* .card-img-c h4{
     color: white;
     margin: 2%;
     border: 2px solid white;
@@ -167,6 +167,21 @@ body{
 .card-img-o{
     display: none;
     background: rgba(0, 0, 0, 0.4);
-    padding: 3%
+    padding: 3% */
+
+ .portfolio{
+    display: flex;
+    flex-wrap: wrap;
 }
-.portf
+
+.img-fluid{
+    margin: 2%;
+    width: 230px;
+}
+.icons{
+    text-align: center;
+    padding-left: 25px;
+}
+.contac{
+    background-image: url('assets/backgrounds/s_image.jpg');
+}

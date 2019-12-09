@@ -1,69 +1,67 @@
-$(document).ready( function() {
+$(document).ready(function () {
     $("#designlogo").click(function () {
         $(this).hide();
         $(".weed").show();
     });
 
-    $('.weed').click(function(){
+    $('.weed').click(function () {
         $(this).hide();
         $('#designlogo').show();
     });
 
-    $("#devLogo").click(function(){
+    $("#devLogo").click(function () {
         $(this).hide();
         $(".dev").show()
     });
 
-    $('.dev').click(function(){
+    $('.dev').click(function () {
         $(this).hide();
         $('#devLogo').show()
     });
 
-    $("#productLogo").click(function(){
+    $("#productLogo").click(function () {
         $(this).hide();
         $('.pro').show();
     });
 
-    $('.pro').click(function(){
+    $('.pro').click(function () {
         $(this).hide();
         $('#productLogo').show();
     });
 
-    $('.img-fluid').hover(function(){
-        $('.card-img-overlay').toggle();
-    });
-    
-
-    $('.img-a').hover(function(){
-        $('.card-img-c').toggle();
-    });
-
-    $('.img-d').hover(function(){
-        $('.card-img-e').toggle();
-    });
-
-    $('.img-f').hover(function(){
-        $('.card-img-g').toggle();
+    $('.first').hover(function () {
+        $('#1').toggle();
     });
 
 
-$('.img-h').hover(function(){
-    $('.card-img-i').toggle();
+    $('.second').hover(function () {
+        $('#2').toggle();
+    });
+
+    $('.third').hover(function () {
+        $('#3').toggle();
+    });
+
+    $('.fourth').hover(function () {
+        $('#4').toggle();
+    });
+
+
+    $('.fifth').hover(function () {
+        $('#5').toggle();
+    });
+
+    $('.sixth').hover(function () {
+        $('#6').toggle();
+    });
+
+    $('.seventh').hover(function () {
+        $('#7').toggle();
+    });
+
+    $('.eighth').hover(function () {
+        $('#8').toggle();
+    });
+
+
 });
-
-$('.img-j').hover(function(){
-    $('.card-img-k').toggle();
-});
-
-$('.img-l').hover(function(){
-    $('.card-img-m').toggle();
-});
-
-$('.img-n').hover(function(){
-    $('.card-img-o').toggle();
-});
-
-
-});
-
-
