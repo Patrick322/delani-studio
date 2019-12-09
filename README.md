@@ -22,7 +22,7 @@ code . or atom . depending on the text editor of your choise.
 
 The website is working okay but we are looking forward to expand it  globally
 
-##Tecnologies used
+## Tecnologies used
 HTML5
 CSS
 Bootstrap
