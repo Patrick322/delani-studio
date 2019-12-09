@@ -61,6 +61,7 @@
     right: 0;
     top: 0;
     bottom: 0;
+    padding:100px;
 }
 body{
     font-size: 20px;
@@ -71,5 +72,52 @@ body{
 .weed{
     display:none;
 }
+.card-img-overlay{
+    display: none;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 3%;
+}
 
-
+.card-img-overlay h4{
+    color: white;
+    margin: 2%;
+    border: 2px solid white;
+    height: 80%;
+    text-align: left;
+}
+.card-img-c h4{
+    color: white;
+    margin: 2%;
+    border: 2px solid white;
+    height: 80%;
+    text-align: left;
+}
+.card-img-c{
+    display: none;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 3%
+}
+.card-img-e h4{
+    color: white;
+    margin: 2%;
+    border: 2px solid white;
+    height: 80%;
+    text-align: left;
+}
+.card-img-e{
+    display: none;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 3%
+}
+.card-img-f h4{
+    color: white;
+    margin: 2%;
+    border: 2px solid white;
+    height: 80%;
+    text-align: left;
+}
+.card-img-g{
+    display: none;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 3%
+}

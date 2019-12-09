@@ -29,4 +29,22 @@ $(document).ready( function() {
         $('#productLogo').show();
     });
 
+    $('.img-fluid').hover(function(){
+        $('.card-img-overlay').toggle();
+    });
+    
+
+    $('.img-a').hover(function(){
+        $('.card-img-c').toggle();
+    });
+
+    $('.img-d').hover(function(){
+        $('.card-img-e').toggle();
+    });
+
+    $('.img-f').hover(function(){
+        $('.card-img-g').toggle();
+    })
 });
+z
+
