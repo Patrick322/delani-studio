@@ -63,4 +63,9 @@ $(document).ready(function () {
         $('#8').toggle();
     });
 
+    $(".button").click(function(){
+        var name = document.getElementById('mce-EMAIL').value ;
+        alert('Hey '+ name +", thank you for contacting us. We will get back to you.")
+    });
+
 });
