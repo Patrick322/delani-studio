@@ -53,9 +53,17 @@ $('.img-h').hover(function(){
 
 $('.img-j').hover(function(){
     $('.card-img-k').toggle();
-})
+});
 
-$('.img')
+$('.img-l').hover(function(){
+    $('.card-img-m').toggle();
+});
+
+$('.img-n').hover(function(){
+    $('.card-img-o').toggle();
+});
+
+
 });
 
 

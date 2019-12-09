@@ -145,3 +145,28 @@ body{
     background: rgba(0, 0, 0, 0.4);
     padding: 3%
 }
+.card-img-l h4{
+    color: white;
+    margin: 2%;
+    border: 2px solid white;
+    height: 80%;
+    text-align: left;
+}
+.card-img-m{
+    display: none;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 3%
+}
+.card-img-n h4{
+    color: white;
+    margin: 2%;
+    border: 2px solid white;
+    height: 80%;
+    text-align: left;
+}
+.card-img-o{
+    display: none;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 3%
+}
+.portf
