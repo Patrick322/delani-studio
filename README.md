@@ -33,6 +33,9 @@ If there is any addition or further clarrificatio please contact me:
 tel:+254797239875
 Email:patrickbuong@gmail.com
 
+## Behaviour Driven Development(BDD)
+In the form the user is required to enter nme ,Emil and the message as an in input the their is pop up message confirming to him/her that the message has been received and we thank him for the subscription,Then he is suppose to fill the form of the Delani studio which will help us track his subscription.
+
 
 ## Livelink
 
