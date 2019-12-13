@@ -23,10 +23,10 @@ code . or atom . depending on the text editor of your choise.
 The website is working okay but we are looking forward to expand it  globally
 
 ## Tecnologies used
-HTML5
-CSS
-Bootstrap
-jQuery
+* HTML5
+* CSS
+* Bootstrap
+* jQuery
 
 ## Support and contacts details
 If there is any addition or further clarrificatio please contact me:

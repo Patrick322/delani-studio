@@ -28,8 +28,13 @@
 
 .what{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     font-family: 'Satisfy', cursive;
+}
+
+.Do{
+    width: 400px;
 }
 
 .what p{
@@ -75,11 +80,10 @@ body{
 .weed{
     display:none;
 }
-.card-img-overlay{
-    display: none;
-    background: rgba(0, 0, 0, 0.4);
-    padding: 3%;
-}
+    .card-img-overlay {
+        display: none;
+        background-color: rgba(0, 0, 0, 0.7);
+    }
 
 .card-img-overlay h4{
     color: white;
@@ -88,95 +92,24 @@ body{
     height: 80%;
     text-align: left;
 }
-/* .card-img-c h4{
+.card-tittle{
     color: white;
-    margin: 2%;
+    margin: 5px;
     border: 2px solid white;
-    height: 80%;
     text-align: left;
-}
-.card-img-c{
-    display: none;
-    background: rgba(0, 0, 0, 0.4);
-    padding: 3%
-}
-.card-img-e h4{
-    color: white;
-    margin: 2%;
-    border: 2px solid white;
     height: 80%;
-    text-align: left;
 }
-.card-img-e{
+.card-img-overlay {
     display: none;
-    background: rgba(0, 0, 0, 0.4);
-    padding: 3%
+    background-color: rgba(0, 0, 0, 0.3);
 }
-.card-img-f h4{
-    color: white;
-    margin: 2%;
-    border: 2px solid white;
-    height: 80%;
-    text-align: left;
-}
-.card-img-g{
-    display: none;
-    background: rgba(0, 0, 0, 0.4);
-    padding: 3%
-}
-.card-img-h h4{
-    color: white;
-    margin: 2%;
-    border: 2px solid white;
-    height: 80%;
-    text-align: left;
-}
-.card-img-i{
-    display: none;
-    background: rgba(0, 0, 0, 0.4);
-    padding: 3%
-}
-.card-img-j h4{
-    color: white;
-    margin: 2%;
-    border: 2px solid white;
-    height: 80%;
-    text-align: left;
-}
-.card-img-k{
-    display: none;
-    background: rgba(0, 0, 0, 0.4);
-    padding: 3%
-}
-.card-img-l h4{
-    color: white;
-    margin: 2%;
-    border: 2px solid white;
-    height: 80%;
-    text-align: left;
-}
-.card-img-m{
-    display: none;
-    background: rgba(0, 0, 0, 0.4);
-    padding: 3%
-}
-.card-img-n h4{
-    color: white;
-    margin: 2%;
-    border: 2px solid white;
-    height: 80%;
-    text-align: left;
-}
-.card-img-o{
-    display: none;
-    background: rgba(0, 0, 0, 0.4);
-    padding: 3% */
 
  .portfolio{
     display: flex;
     flex-wrap: wrap;
     font-family: 'Satisfy', cursive;
 }
+
 
 .img-fluid{
     margin: 2%;
